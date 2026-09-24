@@ -1,13 +1,13 @@
 # OTTILI PROPRIETARY LICENSE
  
-**Version 6.0 — All Rights Reserved**
+**Version 6.1 — All Rights Reserved**
  
 Copyright © 2026 REWOS GmbH and its Affiliates. All rights reserved.
  
-SPDX-License-Identifier: `LicenseRef-Ottili-Proprietary-6.0`
-Effective Date: as of the date of publication of this Version 6.0
-Supersession: This Version 6.0 governs Covered Material distributed, published or made
-available under Version 6.0. Rights validly granted under a prior version remain governed
+SPDX-License-Identifier: `LicenseRef-Ottili-Proprietary-6.1`
+Effective Date: as of the date of publication of this Version 6.1
+Supersession: This Version 6.1 governs Covered Material distributed, published or made
+available under Version 6.1. Rights validly granted under a prior version remain governed
 by the version applicable at the time of that grant (see Section 29.3).
  
 ---
@@ -168,12 +168,15 @@ license.
  
 **2.2** Covered brands, products and systems include, without limitation:
  
-Ottili · Ottili ONE · Ottili HQ · Ottili Cloud · Ottili Electronics · Ottili Foundation
+Ottili · Ottili ONE · Ottili HQ · Ottili LD3 · Ottili Cloud · Ottili Electronics · Ottili Foundation
 Framework · Ottili Research Labs · Ottili Operational Intelligence Engine (OOIE) ·
-Micro Evolution Engine (MEE) · LD3 · Rooke · Rooke AI · Rooke Code · Rooke Work ·
-Rooke Platform · Rooke Spire · and any future Ottili or Rooke product, module, model,
-service, research program or internal system.
+Micro Evolution Engine (MEE) · GERMO (Generative Engineering and Refactor Managment Orchestraor) · LD3 · HQ · 
+Alran · Alran AI · Alran Code · Alran Work · Alran Platform · Alran Spire · 
+and any future Ottili or Alran product, module, model, service, research program or internal system.
  
+**2.2a Legacy brands.** Historical or retired brands include **CodeHelm** and **Rooke**.
+These names are retained only as legacy identifiers and do not designate current products, platforms, modules, models or services under this License.
+
 **2.3** The foregoing list is illustrative and non-exhaustive. This License applies on the
 basis that material constitutes Ottili proprietary material, and not solely on the basis of
 any particular brand or product name appearing in this Section.
@@ -641,7 +644,7 @@ specifications, schemas or SDKs under an open-source or source-available license
 specifically identified version, commit or release artifact covered by that separate
 license.
  
-**16.3** The release of one Ottili or Rooke component under an open-source license does not
+**16.3** The release of one Ottili or Alran component under an open-source license does not
 imply, and shall not be construed as implying, that any other component, version, branch,
 fork, successor or related material is open source or available under the same terms.
  
@@ -654,7 +657,7 @@ past releases.
 ## 17. TRADEMARKS AND BRAND ASSETS
  
 **17.1** Ottili, Ottili ONE, Ottili HQ, Ottili Cloud, Ottili Electronics, Ottili Research
-Labs, Rooke, Rooke AI, Rooke Code, Rooke Work, Rooke Platform, Rooke Spire, LD3, OOIE, MEE
+Labs, Alran, Alran AI, Alran Code, Alran Work, Alran Platform, Alran Spire, LD3, OOIE, MEE
 and all related current or future product names, service names, module names, system names,
 model names, codenames, logos, icons, wordmarks, slogans, visual identities, product
 identifiers, design elements, domain names, social handles and other brand assets are
@@ -665,7 +668,7 @@ rights holders.
 certification, merchandising or domain right is granted by this License.
  
 **17.3** Permission to use source code or other material under a separate written
-authorization does not automatically grant any right to use Ottili or Rooke branding.
+authorization does not automatically grant any right to use Ottili or Alran branding.
  
 **17.4** No person may register, apply for, or assist any third party in registering any
 identical or confusingly similar mark, domain name, package name, handle or company name, in
@@ -1131,7 +1134,7 @@ required by **§ 5 DDG** (Digitale-Dienste-Gesetz — the TMG was repealed on 14
  * Copyright (c) 2026 REWOS GmbH. All rights reserved.
  *
  * This file is part of the Ottili ecosystem and is PROPRIETARY AND CONFIDENTIAL.
- * Licensed under the Ottili Proprietary License v6.0 — see LICENSE.md.
+ * Licensed under the Ottili Proprietary License v6.1 — see LICENSE.md.
  *
  * Unauthorized copying, use, modification, distribution, disclosure, deployment,
  * reverse engineering or AI training on this file, in whole or in part, by any
@@ -1143,7 +1146,7 @@ required by **§ 5 DDG** (Digitale-Dienste-Gesetz — the TMG was repealed on 14
  * Text and data mining rights reserved (Art. 4(3) Directive (EU) 2019/790;
  * § 44b(3) UrhG). Mandatory statutory exceptions remain unaffected.
  *
- * SPDX-License-Identifier: LicenseRef-Ottili-Proprietary-6.0
+ * SPDX-License-Identifier: LicenseRef-Ottili-Proprietary-6.1
  */
 ```
  
@@ -1151,10 +1154,10 @@ Python / shell variant:
  
 ```
 # Copyright (c) 2026 REWOS GmbH. All rights reserved.
-# Proprietary and confidential — Ottili Proprietary License v6.0 (see LICENSE.md).
+# Proprietary and confidential — Ottili Proprietary License v6.1 (see LICENSE.md).
 # Unauthorized use, copying, disclosure, reverse engineering or AI training prohibited.
 # TDM rights reserved (§ 44b(3) UrhG / Art. 4(3) EU 2019/790).
-# SPDX-License-Identifier: LicenseRef-Ottili-Proprietary-6.0
+# SPDX-License-Identifier: LicenseRef-Ottili-Proprietary-6.1
 ```
  
 ---
@@ -1291,7 +1294,7 @@ Sitemap: https://ottili.one/sitemap.xml
 Copyright © 2026 REWOS GmbH.
  
 This repository is **not open source**. It is licensed under the
-[Ottili Proprietary License v6.0](./LICENSE.md).
+[Ottili Proprietary License v6.1](./LICENSE.md).
  
 No use, copying, modification, distribution, hosting, reverse engineering
 or AI/ML training is permitted without prior written authorization.
@@ -1307,6 +1310,6 @@ Permission requests: legal@ottili.one
  
 ---
  
-**OTTILI PROPRIETARY LICENSE — VERSION 6.0**
+**OTTILI PROPRIETARY LICENSE — VERSION 6.1**
 **Copyright © 2026 REWOS GmbH. All Rights Reserved.**
 **END OF LICENSE**
